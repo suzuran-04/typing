@@ -2,7 +2,7 @@ import tkinter as tk
 
 # ゲームのデータ
 word_list = [
-    ("私は偽物です", "watasiwanisemonodesu"),
+    ("私は偽物です", "watasihanisemonodesu"),
     ("あたなが本物です", "anatagahonmonodesu"),
     ("だから私の目をあげます", "dakarawatasinomewoagemasu"),
 ]
